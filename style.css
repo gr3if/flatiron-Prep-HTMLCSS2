@@ -1,0 +1,7 @@
+/* Use the "padding" and "margin" properties to give the posters some space! */
+.frame {
+  display: inline-block;
+  border: 5px solid #020202;
+  padding:10px;
+  margin:10px;
+}
